@@ -2,7 +2,7 @@ void main() {
   print("Q1 use  any 10 List methods.\n");
 
   List<String> Names = ["Ammar", "Arees", "Azam", "Moiz"];
-  print(Names.first); //Print First Index.
+  print(Names.first); //Print First Index item.
   print(Names.hashCode); //Print HashCode.
   print(Names.isEmpty); //Print False.
   print(Names.isNotEmpty); //Print True.
